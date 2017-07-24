@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaWizPlusPlus/scraper.git"
+  },
+  "author": "Natasha Khilawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatashaWizPlusPlus/scraper/issues"
+  },
+  "homepage": "https://github.com/NatashaWizPlusPlus/scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.4",
+    "request": "^2.81.0"
+  }
+}
